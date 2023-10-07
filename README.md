@@ -20,3 +20,16 @@
 # write all HTML then style it
 
 # Buttons should have rounded corners
+
+# Text Needed
+# Header Logo Header link one header link two header link 3
+# This website 
+# This website has some other text blah blah 
+# CAll to action
+# place holder image
+# some ramdom info 
+# subtext 1 subtext 2 subtext 3 subtext 4 
+
+# focus determines your reality 
+# call to action time!! 
+# copyright 
