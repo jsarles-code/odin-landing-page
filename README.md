@@ -18,3 +18,5 @@
 # tex box below 
 # text box parallel right
 # write all HTML then style it
+
+# Buttons should have rounded corners
