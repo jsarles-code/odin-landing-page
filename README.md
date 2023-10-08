@@ -33,3 +33,6 @@
 # focus determines your reality 
 # call to action time!! 
 # copyright 
+
+# Round 2 Most of Content is on the Page , going to work my way down and adjust what is needed
+# Next Step is to adjust the nav bar menu and make it look good. 
