@@ -1,5 +1,5 @@
 # odin-landing-page
- #code and stuff 
+ # code and stuff 
  # Sections
  # 4 sections and a footer
  # Header First Row 4 Boxes
@@ -36,3 +36,10 @@
 
 # Round 2 Most of Content is on the Page , going to work my way down and adjust what is needed
 # Next Step is to adjust the nav bar menu and make it look good. 
+
+# Need to a create an element to contain all the header elements including the menu bar header text and hero image 
+# Need to give this element a grey background 
+# Need some text to be white and it looks like bolded as well as blue button with rounded corners
+# Hero Text, subtext and button need to be in a column parallel to the Hero image
+# looks like equal padding on either side, so two columns of content 
+# the subtext is lower contrast and is smaller font but lets start from the top. 
