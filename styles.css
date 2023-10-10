@@ -1,9 +1,8 @@
 .flex-container {
   display: flex;
 }
-.flex-head-container{
+.flex-head-container {
   display: flex;
-  flex-direction: column ;
 }
 img {
     width: 100px;
