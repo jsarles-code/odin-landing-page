@@ -1,6 +1,5 @@
 .flex-container {
   display: flex;
-  flex-direction: row ;
 }
 .flex-head-container{
   display: flex;
