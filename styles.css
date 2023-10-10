@@ -1,9 +1,15 @@
 .flex-container {
   display: flex;
 }
+
 .flex-head-container {
   display: flex;
 }
+
+.flex-container-CTA {
+  display: flex;
+}
+
 img {
     width: 100px;
     height: auto;
