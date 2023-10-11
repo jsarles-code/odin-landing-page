@@ -10,15 +10,16 @@ body {
 
 .flex-container {
   display: flex;
+  max-width: max-content;
+  margin: auto;
 }
 
 .Qoute {
   background-color: #E5E7EB;
+  max-width: max-content;
+  margin: auto;
 }
 
-.flex-head-container {
-  display: flex;
-}
 
 .flex-container-CTA {
   display: flex;
@@ -67,4 +68,8 @@ img {
 
 a {
   color: grey;
+}
+
+.Hero-Secondary-Text {
+  font-size: 18px;
 }
