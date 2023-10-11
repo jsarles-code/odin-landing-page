@@ -30,7 +30,10 @@ img {
   width: 400px;
   height: auto;
 }
-
+.CTA
+{
+  background-color: #3882F6 ;
+}
 .hero2 {
   text-align: center;
 }
@@ -43,4 +46,10 @@ img {
 .topnav {
   max-width: max-content;
   margin: auto;
+}
+.copyright
+{
+  background-color: #1F2937;
+color: white;
+text-align: center;
 }
