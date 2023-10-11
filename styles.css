@@ -46,15 +46,22 @@ img {
 .flex-head-container {
   max-width: max-content;
   margin: auto;
+  display: flex;
+  justify-content: center;
 }
 
 .topnav {
   max-width: max-content;
   margin: auto;
+  color: white;
+
 }
 
 .copyright {
   background-color: #1F2937;
   color: white;
   text-align: center;
+}
+a {
+  color: grey;
 }
