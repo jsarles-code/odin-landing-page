@@ -19,6 +19,23 @@ img {
     width: 100px;
     height: auto;
   }
+
+.heroimage
+{
+  width: 200px;
+    height: auto;
+}
+
 .hero2 {
     text-align: center;
   }
+.flex-head-container
+{
+  max-width: max-content;
+  margin: auto;
+}
+.topnav
+{
+  max-width: max-content;
+  margin: auto;
+}
