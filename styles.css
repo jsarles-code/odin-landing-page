@@ -1,8 +1,8 @@
 body {
   max-width: max-content;
   margin: auto;
-  }
-  
+}
+
 .flex-container {
   display: flex;
 }
@@ -16,26 +16,25 @@ body {
 }
 
 img {
-    width: 100px;
-    height: auto;
-  }
+  width: 100px;
+  height: auto;
+}
 
-.heroimage
-{
+.heroimage {
   width: 400px;
-    height: auto;
+  height: auto;
 }
 
 .hero2 {
-    text-align: center;
-  }
-.flex-head-container
-{
+  text-align: center;
+}
+
+.flex-head-container {
   max-width: max-content;
   margin: auto;
 }
-.topnav
-{
+
+.topnav {
   max-width: max-content;
   margin: auto;
 }
