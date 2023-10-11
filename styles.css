@@ -2,11 +2,17 @@ body {
   max-width: max-content;
   margin: auto;
 }
-
+.Header
+{
+  color: white;
+  background-color: #1F2937 ;
+}
 .flex-container {
   display: flex;
 }
-
+.Qoute {
+  background-color: #E5E7EB ;
+}
 .flex-head-container {
   display: flex;
 }
