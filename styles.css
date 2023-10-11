@@ -2,17 +2,20 @@ body {
   max-width: max-content;
   margin: auto;
 }
-.Header
-{
+
+.Header {
   color: white;
-  background-color: #1F2937 ;
+  background-color: #1F2937;
 }
+
 .flex-container {
   display: flex;
 }
+
 .Qoute {
-  background-color: #E5E7EB ;
+  background-color: #E5E7EB;
 }
+
 .flex-head-container {
   display: flex;
 }
@@ -30,10 +33,11 @@ img {
   width: 400px;
   height: auto;
 }
-.CTA
-{
-  background-color: #3882F6 ;
+
+.CTA {
+  background-color: #3882F6;
 }
+
 .hero2 {
   text-align: center;
 }
@@ -47,9 +51,9 @@ img {
   max-width: max-content;
   margin: auto;
 }
-.copyright
-{
+
+.copyright {
   background-color: #1F2937;
-color: white;
-text-align: center;
+  color: white;
+  text-align: center;
 }
