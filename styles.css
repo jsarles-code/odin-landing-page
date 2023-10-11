@@ -41,6 +41,10 @@ img {
 
 .CTA {
   background-color: #3882F6;
+  max-width: max-content;
+  margin: auto;
+  text-align: center;
+  border-radius: 25px
 }
 
 .hero2 {
@@ -73,4 +77,10 @@ a {
 
 .Hero-Secondary-Text {
   font-size: 18px;
+}
+
+button {
+  color: white;
+  background-color: #3882F6;
+  border-radius: 25px;
 }
