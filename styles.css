@@ -6,7 +6,7 @@ body {
 .Header {
   color: white;
   background-color: #1F2937;
-
+  
 }
 
 .flex-container {
@@ -65,7 +65,7 @@ img {
   justify-content: center;
   grid-auto-flow: column;
   grid-auto-columns: 1fr;
-
+  padding: 100px;
 
 
 }
@@ -102,4 +102,5 @@ button {
   justify-content: space-between;
   align-items: center;
   grid-auto-flow: column
+  
 }
