@@ -9,9 +9,11 @@ body {
 }
 
 .flex-container {
-  display: flex;
+  display: grid;
   max-width: max-content;
   margin: auto;
+  grid-auto-flow: column;
+
 }
 
 .Qoute {
@@ -23,7 +25,10 @@ body {
 
 
 .flex-container-CTA {
-  display: flex;
+  display: grid;
+  width: 1000px;
+  grid-auto-flow: column;
+
 }
 
 img {
@@ -45,6 +50,7 @@ img {
   margin: auto;
   text-align: center;
   border-radius: 25px
+  
 }
 
 .hero2 {
@@ -54,8 +60,10 @@ img {
 .flex-head-container {
   max-width: max-content;
   margin: auto;
-  display: flex;
+  display: grid;
   justify-content: center;
+  grid-auto-flow: column;
+
 }
 
 .topnav {
@@ -83,4 +91,12 @@ button {
   color: white;
   background-color: #3882F6;
   border-radius: 25px;
+}
+
+.topnav {
+  display: grid;
+  justify-content: space-between;
+  align-items: center;
+  grid-auto-flow: column
+  
 }
