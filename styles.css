@@ -15,7 +15,7 @@ body {
   max-width: max-content;
   margin: auto;
   grid-auto-flow: column;
-  padding-bottom: 100px;
+  padding-bottom: 80px;
 
 }
 
@@ -69,7 +69,7 @@ img {
   justify-content: center;
   grid-auto-flow: column;
   grid-auto-columns: 1fr;
-  padding: 100px;
+  padding: 40px;
 
 
 }
@@ -99,7 +99,9 @@ a {
 button {
   color: white;
   background-color: #3882F6;
-  border-radius: 25px;
+  border-radius: 5px;
+  height : 40px;
+  width :100px;
 }
 
 
@@ -114,7 +116,7 @@ nav {
   /* 2 */
   padding: 1rem 2rem;
   /* 3 */
-
+  margin: 1%;
 }
 
 nav ul {
