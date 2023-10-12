@@ -103,22 +103,28 @@ button {
 }
 
 
-
 .main-content {
   padding: 20px;
 }
+
 nav {
-  display: flex; /* 1 */
-  justify-content: space-between; /* 2 */
-  padding: 1rem 2rem; /* 3 */
-  
+  display: flex;
+  /* 1 */
+  justify-content: space-between;
+  /* 2 */
+  padding: 1rem 2rem;
+  /* 3 */
+
 }
 
 nav ul {
-  display: flex; /* 5 */
-  list-style: none; /* 6 */
+  display: flex;
+  /* 5 */
+  list-style: none;
+  /* 6 */
 }
 
 nav li {
-  padding-left: 1rem; /* 7! */
+  padding-left: 1rem;
+  /* 7! */
 }
